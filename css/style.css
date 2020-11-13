@@ -1,0 +1,30 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.container-fluid{
+    height: 100%;
+    width: 100%;
+    background-color: yellowgreen;
+}
+#grid{
+    background-color: #9fcdff;
+    height: 80%;
+    width: 100%;
+    top:10%
+}
+
+.row{
+    width: 100%;
+    height: 100%;
+}
+.tr{
+    border: 1px solid red;
+}
+.td{
+    border: 1px solid red;
+}
+#grid-table{
+    width: 100%;
+    height: 100%;
+}
